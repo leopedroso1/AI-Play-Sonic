@@ -11,5 +11,5 @@ Requirements to run loose and clean =)
  
  > Sonic the hedgehog ROM: You need to use a good quality ROM. Most Roms on the web don't work properly, so that, buy the Sonic The Hedgehog rom on Steam (https://store.steampowered.com/app/71113/Sonic_The_Hedgehog/) and then import to Retro files using the following script at PowerShell Script: python -m retro.import /path/to/your/ROMs/directory/
 
- Good stuff !! Python IDE. It's good for coding verification and you just need to press F5 to run. I personally recommend PyCharm, however Spyder or Jupyter also does the job!)
+ Good stuff use a Python IDE to run. It's good for coding verification and you just need to press F5 to run. I personally recommend PyCharm, however Spyder or Jupyter also does the job!)
  
