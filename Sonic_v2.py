@@ -3,14 +3,10 @@
 Created on Wed Mar 11 12:41:18 2020
 
 @title: AI playing Sonic the hedgehog
-@author: Leonardo
-@author: Department of Computer Science - University of Oxford - United Kingdom
+@author: Leonardo Pedroso dos Santos
 
 """
 
-# Idea: Use Q Learning technique to take the best maximum fit!
-# Optmization 1: Explore using classes 
-# Optmization 2: Use more variables to settle the reward
 
 # IMPORTANT NOTICE: 1º: RETRO: you must install first gym-retro by: pip install gym-retro, 
 #                              after installation you need to import your ROMs to Retro folder by python -m retro.import <FOLDER PATH>
