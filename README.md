@@ -13,3 +13,4 @@ Requirements to run loose and clean =)
 
  Good stuff use a Python IDE to run. It's good for coding verification and you just need to press F5 to run. I personally recommend PyCharm, however Spyder or Jupyter also does the job!)
  
+New! The code using parallelization is available
